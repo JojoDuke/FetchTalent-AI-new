@@ -4,7 +4,7 @@ import styles from "./page.module.css";
 export default function Home() {
   return (
     <div>
-      Ello Govener
+      Ello Govener, Bye Goveneer
     </div>
   );
 }
